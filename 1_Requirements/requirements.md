@@ -19,7 +19,28 @@ gedit is a Linux text editor commonly deployed as part of the GNOME desktop envi
 A debugger is a program thatruns other programs, allowing the user to exercise control over these programs, and to examine variables when problems arise.GNU Debugger, which is also called gdb, is the most popular debugger for UNIX systems to debug C and C++ programs.GDB allows you to run the program up to a certain point, then stop and print out the values of certain variables at that point, or step through the program one line at a time and print out the values of each variable after executing each line.GDB cannot be used for programs that compile with errors and it does not help in fixing those errors.
 
 4. C/C++ interpreter Ch 5.0
-The release of Ch and its toolkits for Linux PPC continues SoftIntegration&#39;s leadership in cross-platform scripting, numerical computing and embedded scripting. Ch Control System Toolkit, Ch Mechanism Toolkit, Ch CGI Toolkit and C++ Graphical Library are available in Linux PPC as well.Ch is easy and simple for embedded scripting. Embedded Ch allows users to embed Ch into C/C++ application programs and hardware as a scripting engine. It is ideal for open-architecture application integration. With Embedded Ch, C/C++ applications can be extended with all features of Ch.It allows execution of C/C++ scripts generated dynamically. Embedded Ch supports multi-threading and has a small footprint. The pointer and time deterministic nature of the C language provides a perfect interface with hardware in real-time systems.Ch supports an increasing number of third party software applications. It includes Ch Control toolkit,Ch Mechanism Toolkit, Ch NAG Statistics Package, Ch CGI toolkit, Ch ODBC toolkit, Ch XML packages,Intel OpenCV for computer vision and image processing, National Instruments&#39; data acquisition toolkit NI-DAQ and motion control toolkit NI-Motion, Barret Technology&#39;s Barret Hand robotic manipulator control, and IDE.
+The release of Ch and its toolkits for Linux PPC continues SoftIntegration ,leadership in cross-platform scripting, numerical computing and embedded scripting. Ch Control System Toolkit, Ch Mechanism Toolkit, Ch CGI Toolkit and C++ Graphical Library are available in Linux PPC as well.Ch is easy and simple for embedded scripting. Embedded Ch allows users to embed Ch into C/C++ application programs and hardware as a scripting engine. It is ideal for open-architecture application integration. With Embedded Ch, C/C++ applications can be extended with all features of Ch.It allows execution of C/C++ scripts generated dynamically. Embedded Ch supports multi-threading and has a small footprint. The pointer and time deterministic nature of the C language provides a perfect interface with hardware in real-time systems.Ch supports an increasing number of third party software applications. It includes Ch Control toolkit,Ch Mechanism Toolkit, Ch NAG Statistics Package, Ch CGI toolkit, Ch ODBC toolkit, Ch XML packages,Intel OpenCV for computer vision and image processing, National Instruments ,data acquisition toolkit NI-DAQ and motion control toolkit NI-Motion, Barret Technology ,Barret Hand robotic manipulator control, and IDE.
+
+SWOT Analysis:
+
+STRENGTH:
+
+1. Simple and easy to operate
+2. To search,add and update
+3. saves time and reduces overheads
+4. Helps to manage and store the products details and customer details 
+
+WEAKNESS:
+
+1. Risk of computer viruses
+2. Irregularity of updates can lead to hardships and hassles between purchases and credits.
+
+OPPORTUNITIES:
+For a small business, billing can often be a nightmare. Even after the tedious process of sending out the invoices, there’s no guarantee of on-time payment. It’s a time-consuming cycle. However, it is an essential part of the business. That is why it’s important for small businesses to have an efficient invoicing system in place.
+
+THREATS: 
+1.Improper updates of the software
+2.Problems in the software 
 
 
 
