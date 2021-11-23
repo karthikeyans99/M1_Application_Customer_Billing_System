@@ -3,7 +3,7 @@
  
    | ID   |      Description     |  Status |
 |----------|:-------------:|------:|
-| HLR_1 |  Customer can choose their products | Implemented  |
+| HLR_1 |  Customer can choose their products  | Implemented  |
 | HLR_2 |  The discount will be given if applicable  | Implemented  |
 | HLR_3 |   Customer can add more items after choosing items   | Implemented  |
  # Low Level Requirements
