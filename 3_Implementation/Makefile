@@ -1,4 +1,4 @@
-PROJ_NAME = M1_Application_RestaurantBillingSystem
+PROJ_NAME = M1_Application_Customer_Billing_System
 SRC = functions.c test_functions.c unity.c
 
 ifdef OS
