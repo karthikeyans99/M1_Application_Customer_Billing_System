@@ -21,3 +21,14 @@ The project can be used in many aspects, firstly the application file generated 
 Build | Code Quality | Unity | Git Inspector
 --------------|--|---------------|---------------------
 [![C/C++ CI - Build Status](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/linux.yml/badge.svg)](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/linux.yml) |[![Code Quality - Static Code - Cppcheck](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/c-cpp.yml) |[![Unit Testing - Unity](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/unity.yml/badge.svg)](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/unity.yml) |[![Contribution Check - Git Inspector](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/karthikeyans99/M1_Application_Customer_Billing_System/actions/workflows/gitinspector.yml)
+
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`   | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+`5_Report`         | Documentation of whole project
+`6_Images`         | All the output images of this project
+
