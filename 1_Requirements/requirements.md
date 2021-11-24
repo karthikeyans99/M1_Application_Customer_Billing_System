@@ -45,22 +45,20 @@ The release of Ch and its toolkits for Linux PPC continues SoftIntegration ,lead
 
 ## SWOT Analysis:
 
-STRENGTH:
-
+## STRENGTH:
 1. Simple and easy to operate
 2. To search,add and update
 3. saves time and reduces overheads
 4. Helps to manage and store the products details and customer details 
 
-WEAKNESS:
-
+## WEAKNESS:
 1. Risk of computer viruses
 2. Irregularity of updates can lead to hardships and hassles between purchases and credits.
 
-OPPORTUNITIES:
+## OPPORTUNITIES:
 For a small business, billing can often be a nightmare. Even after the tedious process of sending out the invoices, there’s no guarantee of on-time payment. It’s a time-consuming cycle. However, it is an essential part of the business. That is why it’s important for small businesses to have an efficient invoicing system in place.
 
-THREATS: 
+## THREATS: 
 1.Improper updates of the software
 2.Problems in the software 
 
